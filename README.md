@@ -1,4 +1,4 @@
-# Search-recipes---forkify
+Get-Recipe-from-API---searching-app
 <h4>It's a small app called Forkify and it is simple recipe searching app from a real API. </h4>
 
 <ul>
